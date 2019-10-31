@@ -10,7 +10,13 @@ Rajesh Verma
 - [NikodemJanaszak](https://github.com/NikodemJanaszak)
 - [MrHritik](https://github.com/Hritik14)
 - [Bruno Vasconcelos](https://github.com/brunohgv)
-- [Yash Soni](https://github.com/yash17ys4)
+- [Yash Soni](https://github.com/yash17ys4
+- [Muhammad Fiaz Ansari](https://github.com/mfiazansari)
+- [kzack123](https://github.com/kzack123)
+- [NikodemJanaszak](https://github.com/NikodemJanaszak)
+- [MrHritik](https://github.com/Hritik14)
+- [Bruno Vasconcelos](https://github.com/brunohgv)
+- [Yash Soni](https://github.com/yash17ys4
 - [Kegjams](https://github.com/Kegjams)
 - [Bhavy](https://github.com/bhavy007)
 - [Furkan Doğu](https://github.com/furkanDogu)
