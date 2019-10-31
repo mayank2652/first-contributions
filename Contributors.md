@@ -30,6 +30,11 @@ Rajesh Verma
 - [MrHritik](https://github.com/Hritik14)
 - [Bruno Vasconcelos](https://github.com/brunohgv)
 - [Kegjams](https://github.com/Kegjams)
+- [aalizwel23](https://github.com/aalizwel23
+- [Muhammad Fiaz Ansari](https://github.com/mfiazansari)
+- [kzack123](https://github.com/kzack123)
+- [NikodemJanaszak](https://github.com/NikodemJanaszak)
+- [MrHritik](https://github.com/Hritik14)
 - [Bhavy](https://github.com/bhavy007)
 - [Furkan Doğu](https://github.com/furkanDogu)
 - [Mahesh Jaganiya] (https://github.com/jagzmz)
